@@ -178,7 +178,7 @@ Mỗi bạn có **10–15 phút** trình bày và **5 phút** hỏi đáp.
 
 | Tiêu chí | Mô tả |
 |----------|-------|
-| Hiểu bài toán | Hliệu mình đang làm việc không? |
+| Hiểu bài toán | Nắm được ý tưởng không? |
 | Lý luận pipeline | Mỗi quyết định kỹ thuật có được giải thích rõ ràng không? |
 | Kết quả | Có vượt benchmark không? Kết quả có tái hiện được không? |
 | Phân tích thất bại | Bạn có thử nhiều hướng và rút ra được bài học không? |
